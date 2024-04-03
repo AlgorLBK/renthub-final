@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://f2023_comp3123:fullstack_assignment1@cluster0.w2zjbvo.mongodb.net/capstone_project?retryWrites=true&w=majority",
+    "JWT_SECRET": "Fh[qV@cxMa^{$wg=K}Ync3Ree6reW@Gz^<p-G9[U+,c(=Wb)PZ1@m6Cd('73X.y"
+  }

@@ -1,0 +1,4 @@
+{
+    "connectionString": "Your connection string here",
+    "secret": "Your secret key here"
+  }

@@ -1,0 +1,41 @@
+{
+  "name": "renthub",
+  "version": "1.0.0",
+  "description": "The RentHub Rental Management System is a web application designed to streamline the process of managing rental properties. It offers a user-friendly interface for property owners and tenants to efficiently handle various rental tasks. The system is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack and integrated with the Swavy UI CSS framework for responsive and visually appealing user interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubielawbar/W24_T27_CAPSTONE_BACKUP.git"
+  },
+  "keywords": [
+    "rental",
+    "node",
+    "express",
+    "javascript",
+    "react",
+    "capstone"
+  ],
+  "author": "Team 27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toubielawbar/W24_T27_CAPSTONE_BACKUP/issues"
+  },
+  "homepage": "https://github.com/toubielawbar/W24_T27_CAPSTONE_BACKUP#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.4"
+  }
+}
